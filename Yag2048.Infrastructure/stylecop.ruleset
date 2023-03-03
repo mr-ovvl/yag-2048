@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RuleSet Name="Yag2048-Rules" Description="Default rules for a simple game." ToolsVersion="14.0">
+    <Rules AnalyzerId="StyleCop.Analyzers" RuleNamespace="StyleCop.Analyzers.OrderingRules">
+        <Rule Id="SA0001" Action="None"/>
+        <Rule Id="SA1009" Action="None"/>
+        <Rule Id="SA1101" Action="None"/>
+        <Rule Id="SA1111" Action="None"/>
+        <Rule Id="SA1116" Action="None"/>
+        <Rule Id="SA1200" Action="None"/>
+        <Rule Id="SA1204" Action="None"/>
+        <Rule Id="SA1309" Action="None"/>
+        <Rule Id="SA1401" Action="None"/>
+        <Rule Id="SA1407" Action="None"/>
+        <Rule Id="SA1413" Action="None"/>
+        <Rule Id="SA1503" Action="None"/>
+        <Rule Id="SA1600" Action="None"/>
+        <Rule Id="SA1602" Action="None"/>
+        <Rule Id="SA1633" Action="None"/>
+    </Rules>
+</RuleSet>

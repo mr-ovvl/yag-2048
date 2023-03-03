@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yag2048.Core", "Yag2048.Core\Yag2048.Core.csproj", "{F64A850F-5C97-4A42-B4EF-55C4A24A1D66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yag2048.Game", "Yag2048.Game\Yag2048.Game.csproj", "{E27904D8-DD5E-424F-B2A2-3DB75E852361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yag2048.Game.Rules2048", "Yag2048.Game.Rules2048\Yag2048.Game.Rules2048.csproj", "{2E40C397-1ED5-4CC7-8B3E-0C45ECE453A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yag2048.Game.RulesThrees", "Yag2048.Game.RulesThrees\Yag2048.Game.RulesThrees.csproj", "{6B84F170-63F8-4838-A186-D238EB35E2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yag2048", "Yag2048\Yag2048.csproj", "{190E5FF1-5318-409E-B171-3BE7F35E49A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64A850F-5C97-4A42-B4EF-55C4A24A1D66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64A850F-5C97-4A42-B4EF-55C4A24A1D66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64A850F-5C97-4A42-B4EF-55C4A24A1D66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64A850F-5C97-4A42-B4EF-55C4A24A1D66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27904D8-DD5E-424F-B2A2-3DB75E852361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27904D8-DD5E-424F-B2A2-3DB75E852361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27904D8-DD5E-424F-B2A2-3DB75E852361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27904D8-DD5E-424F-B2A2-3DB75E852361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E40C397-1ED5-4CC7-8B3E-0C45ECE453A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E40C397-1ED5-4CC7-8B3E-0C45ECE453A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E40C397-1ED5-4CC7-8B3E-0C45ECE453A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E40C397-1ED5-4CC7-8B3E-0C45ECE453A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B84F170-63F8-4838-A186-D238EB35E2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B84F170-63F8-4838-A186-D238EB35E2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B84F170-63F8-4838-A186-D238EB35E2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B84F170-63F8-4838-A186-D238EB35E2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190E5FF1-5318-409E-B171-3BE7F35E49A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190E5FF1-5318-409E-B171-3BE7F35E49A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190E5FF1-5318-409E-B171-3BE7F35E49A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190E5FF1-5318-409E-B171-3BE7F35E49A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
